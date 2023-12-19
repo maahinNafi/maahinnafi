@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React and Python Projects**
 
-- 🤝 I’m looking for help with **Java Microservices**
+- 📫 How to reach me **maahin200@gmail.com**
 
 <p align="left">
 </p>
