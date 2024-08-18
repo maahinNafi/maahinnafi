@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maahin</h1>
-<h3 align="center">A passionate self taught full-stack developer from New York</h3>
+<h3 align="center">A passionate programmer located in New York City</h3>
 
 - 🔭 I’m currently working on **FullStack Development (Spring Boot, PostgreSQL, and React)**
 
